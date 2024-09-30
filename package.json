@@ -13,9 +13,9 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "element-plus": "^2.5.5",
+    "element-plus": "^2.8.4",
     "vue": "^3.4.29",
-    "vue-form-craft": "4.0.6",
+    "vue-form-craft": "4.0.10",
     "vue-router": "^4.3.3"
   },
   "devDependencies": {
